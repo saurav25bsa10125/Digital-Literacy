@@ -1,0 +1,7 @@
+UPI fraud is a common type of cybercrime in which attackers trick users into sharing sensitive financial information or approving fraudulent transactions. In this type of fraud, the attacker usually contacts the victim through phone calls, messages, or fake links pretending to be a bank official, customer support agent, or a trusted service provider.
+
+The fraud typically begins with the attacker gaining the victim’s trust. They may send a fake payment request or a link that looks legitimate. The victim is then asked to enter their UPI PIN or approve a transaction, believing they are receiving money. In reality, the money is debited from their account. In some cases, scammers also create fake apps or websites that resemble genuine payment platforms.
+
+Students and young users are often targeted because they frequently use digital payment apps and may not be fully aware of such scams. The consequences of UPI fraud include financial loss, stress, and potential misuse of personal information.
+
+This case study highlights the importance of being cautious while making online transactions and verifying all payment requests before taking any action.
